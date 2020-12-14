@@ -73,6 +73,14 @@ public class Question3 {
 		cube[2] = turnRight(cube[2]);
 		
 	}
+	
+	static void insertRowArray(char[] oneArray) {
+		
+		
+	}
+	static void insertColArray() {
+		
+	}
 }
 
 
